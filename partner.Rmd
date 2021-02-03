@@ -1,0 +1,17 @@
+---
+title: "partner"
+output: html_document
+---
+
+Name: Tyler Christians
+Username: TylerC2
+
+Partner Name: Ashlan Simpson
+Partner Username: Ashlanjo
+
+Owner recent commit description: Created a new repository with new files in it for hw1 including an html and Rmd
+
+
+commit id:  ee3b96e0b26fb257e3b9869952d1c935054aa9f3
+
+Difficulties: I found it was hard to remember the difference between the different ways to use cd but working with it helped me remember
